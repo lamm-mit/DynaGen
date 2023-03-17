@@ -4,6 +4,8 @@ M.J. Buehler, Modeling Atomistic Dynamic Fracture Mechanisms Using a Progressive
 
 URL: https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/89/12/121009/1146377/Modeling-Atomistic-Dynamic-Fracture-Mechanisms 
 
+![image](https://user-images.githubusercontent.com/101393859/225880041-92f07002-4b74-4198-abbe-2891a2cd6ed8.png)
+
 Create conda environment and activate:
 
 ```
