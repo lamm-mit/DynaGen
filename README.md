@@ -34,10 +34,15 @@ pip install -e .
 Start Jupyter notebook/lab:
 
 ```
+jupyter-lab
+```
+or 
+```
 jupyter-lab --no-browser
 ```
+if you want to use an external/alternative, e.g. local, browser. 
 
-Open the sample Jupyter file and train and/or load pretrained models. Sample checkpoint can be downloaded [here](https://www.dropbox.com/s/q7vdrxgs4c1modr/checkpoint-129_unet-2.pt?dl=0).
+Then open the sample Jupyter file and train and/or load pretrained models. Sample checkpoint can be downloaded [here](https://www.dropbox.com/s/q7vdrxgs4c1modr/checkpoint-129_unet-2.pt?dl=0).
 
 ### Sample results 
 
