@@ -48,7 +48,7 @@ Second, examples of how different microstructures yield disct fracture behavior.
 
 ### Acknowledgements
 
-This code is based heavily on (https://github.com/lucidrains/imagen-pytorch)[https://github.com/lucidrains/imagen-pytorch].
+This code is based on (https://github.com/lucidrains/imagen-pytorch)[https://github.com/lucidrains/imagen-pytorch]. 
 
 ```
 @article{BuehlerASME_JAP_2022,
@@ -57,7 +57,7 @@ This code is based heavily on (https://github.com/lucidrains/imagen-pytorch)[htt
     journal = {J. Appl. Mech.},
     year    = {2022},
     volume  = {89},
+    pages   = {121009},
     url     = {https://doi.org/10.1115/1.4055730}
 }
-```
 ```
