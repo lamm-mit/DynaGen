@@ -8,7 +8,7 @@ Dynamic fracture is an important area of materials analysis, assessing the atomi
 
 [1] M.J. Buehler, Modeling Atomistic Dynamic Fracture Mechanisms Using a Progressive Transformer Diffusion Model, J. Appl. Mech., 89(12): 121009, 2022.
 
-URL: https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/89/12/121009/1146377/Modeling-Atomistic-Dynamic-Fracture-Mechanisms 
+URL: https://doi.org/10.1115/1.4055730 
 
 ![image](https://user-images.githubusercontent.com/101393859/225880041-92f07002-4b74-4198-abbe-2891a2cd6ed8.png)
 
