@@ -36,11 +36,11 @@ Open the sample Jupyter file and train and/or load pretrained models.
 
 All example results taken from [1].
 
-First, an example of a dynamical trajectory of cracking. 
+First, an example of a dynamical trajectory of cracking. Fracture initiation occurs at the same location as in the atomistic simulation. 
 
 ![image](https://user-images.githubusercontent.com/101393859/225990125-bcafc985-5482-4134-a89f-143a7122237e.png)
 
-Second, examples of how different microstructures yield disct fracture behavior. 
+Second, examples of how different microstructures yield disct fracture behavior. In the top example, no fracture initiation is observed. In the bottom example, fracture is initiated at certain locations. For these comparisons, only the last predicted frame is analyzed. 
 
 ![image](https://user-images.githubusercontent.com/101393859/225990181-f752a8ec-fa44-4a15-82aa-395a74fa71d1.png)
 
