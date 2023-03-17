@@ -21,10 +21,10 @@ Create conda environment and activate:
  conda activate DynaGen
 ```
 
-'''
+```
 git clone https://github.com/lamm-mit/DynaGen/
 cd DynaGen
-'''
+```
 
 Then, install DynaGen:
 
