@@ -37,7 +37,7 @@ Start Jupyter notebook/lab:
 jupyter-lab --no-browser
 ```
 
-Open the sample Jupyter file and train and/or load pretrained models. 
+Open the sample Jupyter file and train and/or load pretrained models. Sample checkpoint can be downloaded [here](https://www.dropbox.com/s/q7vdrxgs4c1modr/checkpoint-129_unet-2.pt?dl=0).
 
 ### Sample results 
 
